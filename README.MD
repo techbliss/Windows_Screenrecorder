@@ -27,6 +27,7 @@ Installer does not depend on either python or Qt installations.
 
 Installer will show in windows start menu, but you can run directly with the python code also.
 It will show a Record icon in system tray.
+
 There a different features in the icon menu, simply left click and right click to see the different options.
 As now there a two ways of recordings
 Record wia left click menu or using gui in the menu.
