@@ -113,7 +113,13 @@ replace filters in rec_main.py with
 
 `-f gdigrab`
 
-However i have bad framerate and video do not look good.
+However it produce bad framerate and video do not look good.
+
+# **Side note on 4k recording**
+
+if you have 4k screen, then right click ffmpeg.exe and under settings 
+
+tick "deactivate display scaling on high DPI devices" 
 
 # **Credits**
 [![](https://img.shields.io/badge/ffmpeg--green.svg?maxAge=2592000)](httphttps://ffmpeg.org/)
