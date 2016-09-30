@@ -1,1 +1,1 @@
-![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) [](https://img.shields.io/badge/Follow%20me%20on%20twitter--blue.svg)
+![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![Follow](https://img.shields.io/badge/Follow%20me%20on%20twitter--blue.svg?maxAge=2592000)
