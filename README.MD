@@ -2,6 +2,8 @@
 
 Windows screen recorder is a simple systray and GUI screen recorder for windows. It is using Python 2.7 and PyQt5.
 
+Installer Do not depend on wither python or Qt installations.
+
 
 ![1475268530_device-camera-recorder-video-outline-stroke](https://cloud.githubusercontent.com/assets/3592375/18997872/96fd543a-8736-11e6-8487-0bdc51673f49.png)
 
