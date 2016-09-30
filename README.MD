@@ -1,1 +1,1 @@
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://github.com/techbliss/Windows_Screenrecorder)
+.. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000   :target: https://github.com/techbliss/Windows_Screenrecorder
