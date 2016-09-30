@@ -1,1 +1,1 @@
-.. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000   :target: https://github.com/techbliss/Windows_Screenrecorder
+https://img.shields.io/badge/python-2.7-brightgreen.svg
