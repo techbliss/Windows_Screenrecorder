@@ -1,1 +1,1 @@
-https://img.shields.io/badge/python-2.7-brightgreen.svg
+[![Python version](https://img.shields.io/pypi/pyversions/Django.svg?maxAge=2592000)](https://img.shields.io/badge/python-2.7-brightgreen.svg)
