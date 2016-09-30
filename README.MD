@@ -5,7 +5,7 @@ Windows screen recorder is a simple systray and GUI screen recorder for windows.
 
 ![1475268530_device-camera-recorder-video-outline-stroke](https://cloud.githubusercontent.com/assets/3592375/18997872/96fd543a-8736-11e6-8487-0bdc51673f49.png)
 
-[![](https://img.shields.io/badge/Twitter--blue.svg?maxAge=2592000)](https://twitter.com/zadow28) ![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![PyQ5t](https://img.shields.io/badge/PyQt5-5.6-orange.svg) ![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000) [![](https://img.shields.io/badge/Donate-Paypal-blue.svg?maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KXM6W2JVRUWL)
+[![](https://img.shields.io/badge/Twitter--blue.svg?maxAge=2592000)](https://twitter.com/zadow28) ![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![PyQ5t](https://img.shields.io/badge/PyQt5-5.6-orange.svg) ![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000) [![](https://img.shields.io/badge/Donate-Paypal-blue.svg?maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KXM6W2JVRUWL)[![](https://img.shields.io/badge/Latest release--red.svg?maxAge=2592000)](https://github.com/techbliss/Windows_Screenrecorder/releases/tag/1.0)
 
 # **Screens**
 
@@ -111,3 +111,5 @@ Add automatic sound.
 **Special thx to Roger for original filters that i have modded**
 
 [![](https://img.shields.io/badge/Original Capture filters--yellow.svg?maxAge=2592000)](https://github.com/rdp/screen-capture-recorder-to-video-windows-free)
+
+
