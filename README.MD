@@ -1,1 +1,1 @@
-[![Twitter Follow me](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/zadow28)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://github.com/techbliss/Windows_Screenrecorder)
