@@ -103,6 +103,16 @@ Add updater for new version.
 
 Add automatic sound.
 
+# **Side note on filters**
+
+im using the filter by Roger slidly modded.
+If you want to skip those filters and use win 8 /10 internal one.
+replace filters in rec_main.py with
+
+`-f gdigrab`
+
+However i have bad framerate and video do not look good.
+
 # **Credits**
 [![](https://img.shields.io/badge/ffmpeg--green.svg?maxAge=2592000)](httphttps://ffmpeg.org/)
 [![](https://img.shields.io/badge/Pyinstaller--blue.svg?maxAge=2592000)](https://github.com/pyinstaller/pyinstaller)
