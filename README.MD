@@ -1,1 +1,1 @@
-[![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000)]
+![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000)
