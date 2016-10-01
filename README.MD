@@ -38,6 +38,7 @@ If you use the left click menu i added a splashscreen countdown, counting down f
 Simply install the installer, and find it under start menu.
 Note: Installer will add ffmpeg binaries to your system path.
 It will also register the capture filter's automatic. 
+Remember to restart PC.
 
 # **Run with Python code without installer**
 
