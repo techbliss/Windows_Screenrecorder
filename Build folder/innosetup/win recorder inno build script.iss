@@ -52,7 +52,7 @@ Source: "C:\Users\Storm Shadow\PycharmProjects\Windows_Screen_recorder\Build fol
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
-Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; ValueType: expandsz; ValueName: "RECORD"; ValueData: "{app}\ffmpeg\bin\ffmpeg.exe"; Check: NeedsAddPath('{app}\ffmpeg\bin\ffmpeg.exe')
+Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; ValueType: expandsz; ValueName: "RECORD"; ValueData: "{app}\ffmpeg\bin"; Check: NeedsAddPath('{app}\ffmpeg\bin')
 Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; ValueType: expandsz; ValueName: "Path"; ValueData: "{olddata};%RECORD%"; Check: NeedsAddPath1('%RECORD%')
 
 
