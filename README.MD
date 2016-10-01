@@ -103,7 +103,7 @@ i will see how to add this in future version automatic.
 # **Codecs*
 In order to play the movies you might need codecs.
 
-I use the awsome [Combined codec community pack ](http://www.cccp-project.net/) for years.
+I used the awsome [Combined codec community pack ](http://www.cccp-project.net/) for years.
 
 
 # **Todo**
