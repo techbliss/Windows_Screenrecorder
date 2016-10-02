@@ -708,7 +708,7 @@ class Ui_MainWindow(QDialog):
             print "second"
             time.sleep(1)
             self.stopbutton.setEnabled(False)
-            os.system("explorer " + os.getcwd())
+            #os.system("explorer " + os.getcwd())
             #os.rename('Captured.mp4', stamp + '.mp4')
             tray.show()
             QtWidgets.QApplication.setQuitOnLastWindowClosed(False)
